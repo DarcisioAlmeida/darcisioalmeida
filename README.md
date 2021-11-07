@@ -43,9 +43,7 @@
   <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" title="Firebase" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" title="Gimp" alt="Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" title="GitHub" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="Jquery" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
@@ -97,9 +95,9 @@ Descrição   | Instituição   | Ano | Tipo
   <a href="https://github.com/darcisioalmeida">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=darcisioalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcisioalmeida&layout=compact&langs_count=7&theme=dark">
-</div>
+</div><br>
   
-
+<img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Darcisio Almeida&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <!--
 **DarcisioAlmeida/darcisioalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
