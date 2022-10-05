@@ -62,9 +62,9 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-🏅 Bootcamp Impulso React Web Developer | Digital Innovation One - DIO | Andamento | Certificação
-🏅 Front End Development Libraries | FreeCodeCamp | Andamento | Certificação
-🏅 Programador Full Stack Javascript | OneBiteCode | Andamento | Certificação
+🏅 Bootcamp Impulso React Web Developer | Digital Innovation One - DIO | 2022 | Certificação
+🏅 Front End Development Libraries | FreeCodeCamp | 2022 | Certificação
+🏅 Programador Full Stack Javascript | OneBiteCode | 2022 | Certificação
 🏅 Javascript Algorithms and Data Structures | FreeCodeCamp | 2021 | Certificação
 🏅 Bootcamp Become Remote | Digital Innovation One - DIO | 2021 | Certificação
 🏅 Discover | Rocketseat | 2021 | Curso
